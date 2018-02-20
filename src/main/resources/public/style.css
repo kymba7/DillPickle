@@ -1,0 +1,14 @@
+
+body {
+    background-color: lightblue;
+}
+
+.cell {
+    height: 50px;
+    background-color: #DDDDDD;
+}
+
+.highlight {
+    background-color: lightgreen;
+}
+
